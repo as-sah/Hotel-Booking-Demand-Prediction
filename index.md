@@ -1,9 +1,23 @@
 # Hotel booking demand prediction
 
-## Task 3
-Write your research proposal (< 200 words) including the title.
-Title:
-Proposal:
+## Task 3 Proposal
+
+This is our project for Hanyang Fall 2020 AI class. This Project is not connected to any SE-project.
+
+We want to use historical hotel booking data to predict demand for specific week days. This could help hotel owners price their rooms for maximized ocupancy and increase their revenues. This effort is ment to help the hard hit hotel industry in times of corona.
+
+We hope to find out more about the booking behaviour of costumers throughout the year. In additon, we'd like to create some graphs about the general occupancy of hotels by weekday.
+
+We would like to achive this using random forrest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project.
+
+
+Constributors are
+
+Nicolas Arnedo, 9104320203
+Ashish Saha, 9108020200
+Kenneth Plum Toft, 91032920209
+Ivo Maag, 9113120201
+
 
 ## Task 4
 Find the related (previous) works to your proposal and/or tools (software or services) that you can use. Provide a summary.
