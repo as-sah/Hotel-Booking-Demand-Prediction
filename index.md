@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Hotel booking demand prediction
 
 You can use the [editor on GitHub](https://github.com/as-sah/Hotel-Booking-Demand-Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
