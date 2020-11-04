@@ -1,5 +1,20 @@
 # Hotel booking demand prediction
 
+## Task 3
+Write your research proposal (< 200 words) including the title.
+Title:
+Proposal:
+
+## Task 4
+Find the related (previous) works to your proposal and/or tools (software or services) that you can use. Provide a summary.
+Provide a paragraph with exact references: URLs, publications, and etc.
+Submission: Update the google doc, convert your blog to PDF, and submit to blackboard (one submission per group).
+*** Topic Proposal Guideline (Option A or B):
+When you choose your topic to work on, you can choose one of the following options:
+Option A: Take a very similar step like Kaggle’s Titanic example, you will show us how to investigate the dataset of your choice. You can choose one of the methods from the AI/Machine learning/DL libraries (e.g., https://scikit-learn.org/stable/, R - https://cran.r- project.org/web/views/MachineLearning.html, Weka - https://www.cs.waikato.ac.nz/ml/weka/, Neural Network packages, AWS Sage maker https://aws.amazon.com/sagemaker/, and many others.). You will show us a step-by-step procedure on how to do learning. Accuracy of your method does not matter in this project. Our assignment 2 is giving you a preview of what your project is going to be like.
+
+
+
 You can use the [editor on GitHub](https://github.com/as-sah/Hotel-Booking-Demand-Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
