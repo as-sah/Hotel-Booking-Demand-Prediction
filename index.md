@@ -14,8 +14,11 @@ We would like to achive this using random forrest. Noone of us has ever used ran
 Constributors are
 
 Nicolas Arnedo, 9104320203
+
 Ashish Saha, 9108020200
+
 Kenneth Plum Toft, 91032920209
+
 Ivo Maag, 9113120201
 
 
