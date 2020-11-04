@@ -33,5 +33,5 @@ Ivo Maag, 9113120201
 ### Tools / Software / Services
 - R
 - Python
-- Keggle Dataset https://www.kaggle.com/jessemostipak/hotel-booking-demand
+- [Keggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 - Anaconda
