@@ -22,7 +22,9 @@ Ivo Maag, 9113120201
 ## Task 4
 ### Related previous work:
 [Hanyang gym crowdedness](https://www.kaggle.com/benvae/hanyang-gym-crowdedness)
+
 [Training with Weights: Machine Learning at the Gym:](https://medium.com/@nicksrose72/training-with-weights-machine-learning-at-the-gym-356c643b402f)
+
 [Using Machine Learning to Predict Bus Ticket Sales](https://heartbeat.fritz.ai/predicting-bus-ticket-sales-using-machine-learning-dd2fcfe15392?gi=b264624991a)
 
 ### Tools / Software / Services
