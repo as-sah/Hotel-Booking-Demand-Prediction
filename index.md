@@ -11,7 +11,7 @@ We hope to find out more about the booking behaviour of costumers throughout the
 We would like to achive this using random forrest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project.
 
 
-#### Constributors are
+#### Constributors are:
 
 Nicolas Arnedo, 9104320203
 
