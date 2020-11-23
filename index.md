@@ -1,4 +1,4 @@
-# Hotel Booking Demand Prediction
+<!-- # Hotel Booking Demand Prediction -->
 
 <!-- #### Task 3 Proposal
 
