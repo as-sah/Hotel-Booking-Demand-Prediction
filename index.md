@@ -41,7 +41,7 @@ We would like to achive this using random forest. Noone of us has ever used rand
 ## IV. Evaluation & Analysis
 
 <!-- ## Task 4 -->
-## V. Related work:
+## V. Related Work
 [Hanyang gym crowdedness](https://www.kaggle.com/benvae/hanyang-gym-crowdedness)
 
 [Training with Weights: Machine Learning at the Gym:](https://medium.com/@nicksrose72/training-with-weights-machine-learning-at-the-gym-356c643b402f)
@@ -55,5 +55,5 @@ We would like to achive this using random forest. Noone of us has ever used rand
 - Anaconda
 
 
-## VI. Conclusion: Discussion
+## VI. Conclusion
 
