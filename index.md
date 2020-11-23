@@ -58,7 +58,7 @@ All personal identifying information were removed from the dataset, and it consi
 * __Babies__
   * Number of babies in booking
 * __Meal__
-  * Type of meal booked. Categories are presented in standard hospitality meal packages: 
+  Type of meal booked. Categories are presented in standard hospitality meal packages: 
    * Undefined/SC – no meal package
    * BB – Bed & Breakfast; HB – Half board (breakfast and one other meal – usually dinner)
    * FB – Full board (breakfast, lunch and dinner)
