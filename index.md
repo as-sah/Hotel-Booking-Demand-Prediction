@@ -14,7 +14,7 @@ We would like to achive this using random forest. Noone of us has ever used rand
 #### Members:
 
 * **Nicolas Arnedo**
-  *
+  * Hanyang University
 * **Ashish Saha**
   * Department of Information Systems
   * Hanyang University
