@@ -66,9 +66,13 @@ All personal identifying information were removed from the dataset, and it consi
 * __Country__
   * Country of origin represented in the ISO 3155–3:2013 format
 * __Market Segment__
-  * Market segment designation. The terms:<br>“TA” means “Travel Agents”<br>“TO” means “Tour Operators”
+  * Market segment designation. The terms:
+    * “TA” means “Travel Agents”
+    * “TO” means “Tour Operators”
 * __Distribution Channel__
-  * Booking distribution channel. The terms:<br>“TA” means “Travel Agents”<br>“TO” means “Tour Operators”
+  * Booking distribution channel. The terms:
+    * “TA” means “Travel Agents”
+    * “TO” means “Tour Operators”
 * __Repeating Guest__
   * Value indicating if the booking name was from a repeated guest (1) or not (0)
 * __Previous Cancellations__
@@ -82,7 +86,10 @@ All personal identifying information were removed from the dataset, and it consi
 * __Booking Changes__
   * Number of changes/amendments made to the booking from the moment the booking was entered on the PMS until the moment of check-in or cancellation
 * __Deposit Type__
-  * Indication on if the customer made a deposit to guarantee the booking. This variable can assume three categories:<br>No Deposit – no deposit was made<br>Non Refund – a deposit was made in the value of the total stay cost<br>Refundable – a deposit was made with a value under the total cost of stay
+  * Indication on if the customer made a deposit to guarantee the booking. This variable can assume three categories:
+    * No Deposit – no deposit was made
+    * Non Refund – a deposit was made in the value of the total stay cost
+    * Refundable – a deposit was made with a value under the total cost of stay
 * __Agent__
   * ID of the travel agency that made the booking
 * __Company__
@@ -90,7 +97,11 @@ All personal identifying information were removed from the dataset, and it consi
 * __Days in Waiting List__
   * Number of days the booking was in the waiting list before it was confirmed to the customer
 * __Customer Type__
-  * Type of booking, assuming one of four categories:<br>Contract - when the booking has an allotment or other type of contract associated to it<br>Group – when the booking is associated to a group<br>Transient – when the booking is not part of a group or contract, and is not associated to other transient booking<br>Transient-party – when the booking is transient, but is associated to at least other transient booking
+  * Type of booking, assuming one of four categories:
+    * Contract - when the booking has an allotment or other type of contract associated to it
+    * Group – when the booking is associated to a group
+    * Transient – when the booking is not part of a group or contract, and is not associated to other transient booking
+    * Transient-party – when the booking is transient, but is associated to at least other transient booking
 * __Average Daily Rate__
   * Average Daily Rate as defined by dividing the sum of all lodging transactions by the total number of staying nights
 * __Required Car Parking Spaces__
@@ -98,7 +109,10 @@ All personal identifying information were removed from the dataset, and it consi
 * __Total of Special Requests__
   * Number of special requests made by the customer (e.g. twin bed or high floor)
 * __Reservation Status__
-  * Reservation last status, assuming one of three categories:<br>Canceled – booking was canceled by the customer<br>Check-Out – customer has checked in but already departed<br>No-Show – customer did not check-in and did inform the hotel of the reason why
+  * Reservation last status, assuming one of three categories:
+    * Canceled – booking was canceled by the customer
+    * Check-Out – customer has checked in but already departed
+    * No-Show – customer did not check-in and did inform the hotel of the reason why
 * __Reservation Status Date__
   * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
