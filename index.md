@@ -11,15 +11,15 @@ We hope to find out more about the booking behaviour of costumers throughout the
 We would like to achive this using random forest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project.
 
 
-#### Constributors are:
+#### Members are:
 
 Nicolas Arnedo, 9104320203
 
-Ashish Saha, 9108020200
+Ashish Saha, Department of Information Systems, Hanyang University, ashish.saha@concordia.ca
 
-Kenneth Plum Toft, 91032920209
+Kenneth Plum Toft, Department of Computer Science, Hanyang University, wowkenneth@gmail.com
 
-Ivo Maag, 9113120201
+Ivo Maag, Department of Computer Science, Hanyang University, maagivo1@students.zhaw.ch
 
 
 ## Task 4
