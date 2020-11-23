@@ -11,24 +11,49 @@ We hope to find out more about the booking behaviour of costumers throughout the
 We would like to achive this using random forest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project. -->
 
 
-#### Members are:
+#### Members:
 
-* Nicolas Arnedo, 9104320203
-* Ashish Saha, Department of Information Systems, Hanyang University, ashish.saha@concordia.ca
-* Kenneth Plum Toft, Department of Computer Science, Hanyang University, wowkenneth@gmail.com
-* Ivo Maag, Department of Computer Science, Hanyang University, maagivo1@students.zhaw.ch
+* Nicolas Arnedo
+  *
+* Ashish Saha
+  * Department of Information Systems
+  * Hanyang University
+  * ashish.saha@concordia.ca
+* Kenneth Plum Toft
+  * Department of Computer Science
+  * Hanyang University
+  * wowkenneth@gmail.com
+* Ivo Maag
+  * Department of Computer Science
+  * Hanyang University
+  * maagivo1@students.zhaw.ch
 
 
-## Task 4
-### Related previous work:
+## I. Introduction
+
+
+## II. Datasets
+
+
+## III. Methodology
+
+
+## IV. Evaluation & Analysis
+
+<!-- ## Task 4 -->
+## V. Related work:
 [Hanyang gym crowdedness](https://www.kaggle.com/benvae/hanyang-gym-crowdedness)
 
 [Training with Weights: Machine Learning at the Gym:](https://medium.com/@nicksrose72/training-with-weights-machine-learning-at-the-gym-356c643b402f)
 
 [Using Machine Learning to Predict Bus Ticket Sales](https://heartbeat.fritz.ai/predicting-bus-ticket-sales-using-machine-learning-dd2fcfe15392?gi=b264624991a)
 
-### Tools / Software / Services
+<!-- ### Tools / Software / Services -->
 - R
 - Python
 - [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 - Anaconda
+
+
+## VI. Conclusion: Discussion
+
