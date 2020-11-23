@@ -20,30 +20,27 @@ Ashish Saha | Department of Information Systems | Hanyang University | ashish.sa
 Kenneth Plum Toft | Department of Computer Science | Hanyang University | wowkenneth@gmail.com
 Ivo Maag | Department of Computer Science | Hanyang University | maagivo1@students.zhaw.ch
 
-<!-- * **Nicolas Arnedo**
-  * Hanyang University
-* **Ashish Saha**
-  * Department of Information Systems
-  * Hanyang University
-  * ashish.saha@concordia.ca
-* **Kenneth Plum Toft**
-  * Department of Computer Science
-  * Hanyang University
-  * wowkenneth@gmail.com
-* **Ivo Maag**
-  * Department of Computer Science
-  * Hanyang University
-  * maagivo1@students.zhaw.ch -->
-
-
 ## I. Introduction
 
+#### Motivation
+We want to use historical hotel booking data to predict demand for specific week days. This could help hotel owners price their rooms for maximized ocupancy and increase their revenues. This effort is ment to help the hard hit hotel industry in times of corona.
 
-## II. Datasets
+We hope to find out more about the booking behaviour of costumers throughout the year. In additon, we'd like to create some graphs about the general occupancy of hotels by weekday.
+
+## II. Dataset
+
+The [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand) we used is made up of bookings made in one city hotel and resport hotel for stays set for between July 1, 2015 and August 31, 2017. It consists of information regarding when the individual bookings were made, their length of stay, alongside 30 other data columns. All personal identifying information were however removed from the dataset.
 
 
 ## III. Methodology
 
+#### Algorithm choices:
+
+* Random Forest
+
+* Other algorithms choices.
+
+#### Feature and code explanations:
 
 ## IV. Evaluation & Analysis
 
