@@ -13,17 +13,17 @@ We would like to achive this using random forest. Noone of us has ever used rand
 
 #### Members:
 
-* Nicolas Arnedo
+* **Nicolas Arnedo**
   *
-* Ashish Saha
+* **Ashish Saha**
   * Department of Information Systems
   * Hanyang University
   * ashish.saha@concordia.ca
-* Kenneth Plum Toft
+* **Kenneth Plum Toft**
   * Department of Computer Science
   * Hanyang University
   * wowkenneth@gmail.com
-* Ivo Maag
+* **Ivo Maag**
   * Department of Computer Science
   * Hanyang University
   * maagivo1@students.zhaw.ch
