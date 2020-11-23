@@ -53,10 +53,9 @@ The [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand) 
 [Using Machine Learning to Predict Bus Ticket Sales](https://heartbeat.fritz.ai/predicting-bus-ticket-sales-using-machine-learning-dd2fcfe15392?gi=b264624991a)
 
 <!-- ### Tools / Software / Services -->
-- R
 - Python
 - [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
-- Anaconda
+- Jupyter
 
 
 ## VI. Conclusion
