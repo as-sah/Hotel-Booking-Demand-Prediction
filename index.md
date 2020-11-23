@@ -1,6 +1,6 @@
 # Hotel Booking Demand Prediction
 
-#### Task 3 Proposal
+<!-- #### Task 3 Proposal
 
 This is our project for Hanyang Fall 2020 AI class. This Project is not connected to any SE-project.
 
@@ -8,7 +8,7 @@ We want to use historical hotel booking data to predict demand for specific week
 
 We hope to find out more about the booking behaviour of costumers throughout the year. In additon, we'd like to create some graphs about the general occupancy of hotels by weekday.
 
-We would like to achive this using random forest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project.
+We would like to achive this using random forest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project. -->
 
 
 #### Members are:
