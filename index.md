@@ -8,7 +8,7 @@ We want to use historical hotel booking data to predict demand for specific week
 
 We hope to find out more about the booking behaviour of costumers throughout the year. In additon, we'd like to create some graphs about the general occupancy of hotels by weekday.
 
-We would like to achive this using random forrest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project.
+We would like to achive this using random forest. Noone of us has ever used random forrest before but we hope to gian some experience and understanding in the process of this project.
 
 
 #### Constributors are:
@@ -33,5 +33,5 @@ Ivo Maag, 9113120201
 ### Tools / Software / Services
 - R
 - Python
-- [Keggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
+- [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 - Anaconda
