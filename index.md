@@ -15,7 +15,7 @@ We would like to achive this using random forest. Noone of us has ever used rand
 
 Name | Department | University | Email
 ---- | ---------- | ---------- | -----
-Nicolas Arnedo | _**Placeholder**_ | Hanyang University | _**Placeholder**_
+Nicolas Arnedo | Department of Computer Science | Hanyang University | nicolasarnedo99@gmail.com
 Ashish Saha | Department of Information Systems | Hanyang University | ashish.saha@concordia.ca
 Kenneth Plum Toft | Department of Computer Science | Hanyang University | wowkenneth@gmail.com
 Ivo Maag | Department of Computer Science | Hanyang University | maagivo1@students.zhaw.ch
