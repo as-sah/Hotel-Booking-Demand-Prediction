@@ -29,7 +29,7 @@ By the end, we hope to find out more about the booking behaviour of customers th
 
 ## II. Dataset
 
-The [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand) we used is made up of bookings made in one city hotel and resport hotel for stays set for between July 1, 2015 and August 31, 2017. 
+The [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand) we used is made up of bookings made in one city hotel and resort hotel for stays set for between July 1, 2015 and August 31, 2017. 
 
 All personal identifying information were removed from the dataset, and it consists of the following data columns:
 
