@@ -23,9 +23,9 @@ Ivo Maag | Department of Computer Science | Hanyang University | maagivo1@studen
 ## I. Introduction
 
 #### Motivation
-We want to use historical hotel booking data to predict demand for specific week days. This could help hotel owners price their rooms for maximized ocupancy and increase their revenues. This effort is ment to help the hard hit hotel industry in times of corona.
+We want to use historical hotel booking data to predict demand for specific week days. This could help hotel owners price their rooms for maximized ocupancy and increase their revenues. This effort is meant to help the hard hit hotel industry in times of COVID19.
 
-We hope to find out more about the booking behaviour of costumers throughout the year. In additon, we'd like to create some graphs about the general occupancy of hotels by weekday.
+By the end, we hope to find out more about the booking behaviour of customers throughout the year. In additon, we'd like to create some graphs about the general occupancy of hotels by weekday.
 
 ## II. Dataset
 
