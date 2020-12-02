@@ -121,13 +121,19 @@ All personal identifying information were removed from the dataset, and it consi
 
 #### Algorithm choices:
 
-* Random Forest
-
-* Other algorithms choices.
+TODO: Add Prediction
 
 #### Feature and code explanations:
 
 ## IV. Evaluation & Analysis
+
+After cleaning the dataset, we wanted to find out which features have the strongest correaltion to the total amount of people which is our target. This graph display graphically how much the different features correlate with each other. The lower the number, the stronger the correlation (displayed in blue). The higher the number, the weaker the correlation (displayed in red).
+
+![correlation](images/correlation.png)
+
+This is the average number of guests with each booking for each week during a full year. In general the bookings are quite stable all through the year, but we can see spikes around new year and during the summer. Our goal is to predict the amount of guests expected per booking in a specific week.
+
+![totalPeoplePerWeek](images/totalPeoplePerWeek.png)
 
 <!-- ## Task 4 -->
 ## V. Related Work
