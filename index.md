@@ -117,7 +117,7 @@ All personal identifying information were removed from the dataset, and it consi
 * __Reservation Status Date__
   * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
-#### Data Analysis
+#### Data Cleaning
 
 
 ## III. Methodology
