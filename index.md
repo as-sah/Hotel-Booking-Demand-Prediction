@@ -29,6 +29,7 @@ By the end, we hope to find out more about the booking behaviour of customers th
 
 ## II. Dataset
 
+#### Contents
 The [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand) we used is made up of bookings made in one city hotel and resort hotel for stays set for between July 1, 2015 and August 31, 2017. 
 
 All personal identifying information were removed from the dataset, and it consists of the following data columns:
@@ -115,6 +116,8 @@ All personal identifying information were removed from the dataset, and it consi
     * No-Show – customer did not check-in and did inform the hotel of the reason why
 * __Reservation Status Date__
   * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
+
+#### Data Cleaning
 
 
 ## III. Methodology
