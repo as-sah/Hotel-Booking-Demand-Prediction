@@ -120,30 +120,30 @@ All personal identifying information were removed from the dataset, and it consi
 #### Data Cleaning
 To begin with, as we are making a hotel booking demand algorithm, it doesn't make sense to take into account entries in our dataset where the booking was canceled. These bookings will make our prediction algorithm less accurate, that is why we have decided to eliminate all the entries in which is_canceled is true:
 
-<img src="images/actualEntries.png" alt="actualEntries" width="70%" />
+<img src="images/actualEntries.png" alt="actualEntries" width="100%" />
 
 This makes a significant change in the amount of entries we now have for the rest of the columns. We went from 119389 to 75166. Now that we made this "strategical" decision, we can take a look at the rest of the data in our csv file. We will start by looking at the number of NaN values:
 
-<img src="images/checkingNanValues.png" alt="checkingNanValues" width="70%" />
+<img src="images/checkingNanValues.png" alt="checkingNanValues" width="100%" />
 
 These values we want to take care of first before we can start further analysing our data. 
 We see that the country, company and agent columns have NaN values. To get more accurate results, we are going to analyze what the missing data most likely would be, and if we are unable to find a fitting value, we list them as unknown. All of this will help us getting more accurate results without errors.
 
 First we take a look at the country column:
 
-<img src="images/countries.png" alt="countries" width="70%" />
+<img src="images/countries.png" alt="countries" width="100%" />
 
 Here we see that most of the hotel bookings are from Portugal, but we cannot find a correlation of the NaN data lines and what country they could belong to. So, we are going to fill the values with "unknown".
 
-<img src="images/unknown.png" alt="unknown" width="70%" />
+<img src="images/unknown.png" alt="unknown" width="100%" />
 
 After cleaning this column, these are the results:
 
-<img src="images/countriesCleaned.png" alt="countriesCleaned" width="70%" />
+<img src="images/countriesCleaned.png" alt="countriesCleaned" width="100%" />
 
 Then we moved on to the company column and see what it contains to analyze it:
 
-<img src="images/company.png" alt="company" width="70%" />
+<img src="images/company.png" alt="company" width="100%" />
 
 We realize that the count for the company column is 5606, this is a very small number as we know that each column has 75166 entries.
 
