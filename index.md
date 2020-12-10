@@ -135,15 +135,15 @@ First we take a look at the country column:
 
 Here we see that most of the hotel bookings are from Portugal, but we cannot find a correlation of the NaN data lines and what country they could belong to. So, we are going to fill the values with "unknown".
 
-![correlation](images/unknown.png)
+<img src="images/unknown.png" alt="unknown" width="70%" />
 
 After cleaning this column, these are the results:
 
-![correlation](images/countriesCleaned.png)
+<img src="images/countriesCleaned.png" alt="countriesCleaned" width="70%" />
 
 Then we moved on to the company column and see what it contains to analyze it:
 
-![correlation](images/company.png)
+<img src="images/company.png" alt="company" width="70%" />
 
 We realize that the count for the company column is 5606, this is a very small number as we know that each column has 75166 entries.
 
