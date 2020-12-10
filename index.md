@@ -191,10 +191,6 @@ This is the average number of guests with each booking for each week during a fu
 <img src="images/totalPeoplePerWeek.png" alt="totalPeoplePerWeek" width="80%" />
 
 
-adfjkböldaskfgj ösladkfj öadlshf asduhf pasdiuhf pasiodjf poadis
-
-<img src="images/3d.png" alt="3d" width="80%" />
-
 #### Random Forest
 After cleaning the dataset, we wanted to find out which features have the strongest correaltion to the total amount of people which is our target. This graph display graphically how much the different features correlate with each other. The lower the number, the stronger the correlation (displayed in blue). The higher the number, the weaker the correlation (displayed in red).
 
