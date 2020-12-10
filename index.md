@@ -118,14 +118,53 @@ All personal identifying information were removed from the dataset, and it consi
   * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
 #### Data Cleaning
-If we take a look at the data of our csv file, we find that it has a lot of unassigned values in a few of the columns.
-(insert picture)
+To begin with, as we are making a hotel booking demand algorithm, it doesn't make sense to take into account entries in our dataset where the booking was canceled. These bookings will make our prediction algorithm less accurate, that is why we have decided to eliminate all the entries in which is_canceled is true:
 
-These values we want to take care of first before we can start further analysing our data, this will help us getting more accurate results without errors.
-First we take a look at the X column........ and furher explanation.
-(insert picture)
+![correlation](images/actualEntries.png)
 
-etc.........
+This makes a significant change in the amount of entries we now have for the rest of the columns. We went from 119389 to 75166. Now that we made this "strategical" decision, we can take a look at the rest of the data in our csv file. We will start by looking at the number of NaN values:
+
+![correlation](images/checkingNanValues.png)
+
+These values we want to take care of first before we can start further analysing our data. 
+We see that the country, company and agent columns have NaN values. To get more accurate results, we are going to analyze what the missing data most likely would be, and if we are unable to find a fitting value, we list them as unknown. All of this will help us getting more accurate results without errors.
+
+First we take a look at the country column:
+
+![correlation](images/countries.png)
+
+Here we see that most of the hotel bookings are from Portugal, but we cannot find a correlation of the NaN data lines and what country they could belong to. So, we are going to fill the values with "unknown".
+
+![correlation](images/unknown.png)
+
+After cleaning this column, these are the results:
+
+![correlation](images/countriesCleaned.png)
+
+Then we moved on to the company column and see what it contains to analyze it:
+
+![correlation](images/company.png)
+
+We realize that the count for the company column is 5606, this is a very small number as we know that each column has 75166 entries.
+
+![correlation](images/companyNaN.png)
+
+With a 92% of the entries being NaN values we decided it was best to drop this column as it will not help to create a correlation with such a high percentage of NaN's.
+
+Next, let's look at the "agent" column:
+
+![correlation](images/agent.png)
+
+The agent column contains the number of the agent's that made the booking. The number of agent represents the different type of agent that help made a booking.
+
+![correlation](images/agentCount.png)
+
+Since not every booking is made by an agent there are many NaN values. We decided to change tha NaN values to 0, so no information gets lost while removing the NaN values.
+
+![correlation](images/agentNaN.png)
+
+Now we finished cleaning our dataset and it is now ready for use.
+
 
 ## III. Methodology
 
@@ -137,6 +176,21 @@ TODO: Add Prediction
 
 ## IV. Evaluation & Analysis
 
+#### Data Analysis
+
+Later we want to predict the total number of people that book hotel rooms. In the dataset the data is split into "adults", "children" and "babies". So, before we move on we need to add them together.
+
+![correlation](images/sumOfPeople.png)
+
+Now we can visualize the number of hotel bookings throughout the year in the following pretty graphs.
+
+![correlation](images/occupationGraph.png)
+
+
+
+![correlation](images/3d.png)
+
+#### Random Forest
 After cleaning the dataset, we wanted to find out which features have the strongest correaltion to the total amount of people which is our target. This graph display graphically how much the different features correlate with each other. The lower the number, the stronger the correlation (displayed in blue). The higher the number, the weaker the correlation (displayed in red).
 
 ![correlation](images/correlation.png)
