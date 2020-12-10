@@ -182,9 +182,13 @@ Later we want to predict the total number of people that book hotel rooms. In th
 
 <img src="images/sumOfPeople.png" alt="sumOfPeople" width="80%" />
 
-Now we can visualize the number of hotel bookings throughout the year in the following pretty graphs.
+Now we can visualize the number of people per hotel bookings throughout the months of the year in the following pretty graph.
 
-<img src="images/occupationGraph.png" alt="occupationGraph" width="80%" />
+<img src="images/totalPeopleMonth.png" alt="totalPeopleMonth" width="80%" />
+
+This is the average number of guests with each booking for each week during a full year. In general the bookings are quite stable all through the year, but we can see spikes around new year and during the summer. Our goal is to predict the amount of guests expected per booking in a specific week.
+
+<img src="images/totalPeoplePerWeek.png" alt="totalPeoplePerWeek" width="80%" />
 
 
 adfjkböldaskfgj ösladkfj öadlshf asduhf pasdiuhf pasiodjf poadis
@@ -196,9 +200,6 @@ After cleaning the dataset, we wanted to find out which features have the strong
 
 <img src="images/correlation.png" alt="correlation" width="80%" />
 
-This is the average number of guests with each booking for each week during a full year. In general the bookings are quite stable all through the year, but we can see spikes around new year and during the summer. Our goal is to predict the amount of guests expected per booking in a specific week.
-
-<img src="images/totalPeoplePerWeek.png" alt="totalPeoplePerWeek" width="80%" />
 
 <!-- ## Task 4 -->
 ## V. Related Work
