@@ -196,6 +196,18 @@ After cleaning the dataset, we wanted to find out which features have the strong
 
 <img src="images/correlation.png" alt="correlation" width="80%" />
 
+Now we need to prepare the data for Random Forest. We extract the columns with the highest correlation and create a matrix. We used adress, special requests, repeated guests, nights during week and previous bookings not cancelled.
+
+<img src="images/rfMatrix.png" alt="rfMatrix" width="80%" />
+
+After that we split the data and use 20% of our data to create a testset.
+
+<img src="images/splittingData.png" alt="splittingData" width="80%" />
+
+For Random Forrest we need the ideal number of estimators. So we measure the effect of an increasing number of estimators on the accuracy. On the graph we see that accuracy stabilizes somwehere after 250. To be sure we chose to use 500 estimators.
+
+<img src="images/accuracyGraph.png" alt="accuracyGraph" width="80%" />
+
 
 <!-- ## Task 4 -->
 ## V. Related Work
