@@ -118,7 +118,14 @@ All personal identifying information were removed from the dataset, and it consi
   * Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 
 #### Data Cleaning
+If we take a look at the data of our csv file, we find that it has a lot of unassigned values in a few of the columns.
+(insert picture)
 
+These values we want to take care of first before we can start further analysing our data, this will help us getting more accurate results without errors.
+First we take a look at the X column........ and furher explanation.
+(insert picture)
+
+etc.........
 
 ## III. Methodology
 
