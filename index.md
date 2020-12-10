@@ -131,7 +131,7 @@ We see that the country, company and agent columns have NaN values. To get more 
 
 First we take a look at the country column:
 
-![correlation](images/countries.png)
+![correlation](images/countries.png){ width=50% }
 
 Here we see that most of the hotel bookings are from Portugal, but we cannot find a correlation of the NaN data lines and what country they could belong to. So, we are going to fill the values with "unknown".
 
