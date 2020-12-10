@@ -170,7 +170,14 @@ Now we finished cleaning our dataset and it is now ready for use.
 
 #### Algorithm choices:
 
-TODO: Add Prediction
+The main focus in a machine learning project is picking the right estimator for the task at hand. This decision involves having a domain of how each one works, when and what types of data it is good for and so on. For the elaboration of this porject we have chosen to use the 2 methods which we are more familiar with from our classes.
+
+#### Random Forest
+
+Random forest is a type of supervised machine learning algorithm based on ensemble learning. Ensemble learning is a type of learning where you join different types of algorithms or same algorithm multiple times to form a more powerful prediction model. The random forest algorithm combines multiple decision trees, resulting in a forest of trees, hence the name "Random Forest".
+
+#### Neural Network
+
 
 #### Feature and code explanations:
 
