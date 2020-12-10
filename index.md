@@ -120,7 +120,7 @@ All personal identifying information were removed from the dataset, and it consi
 #### Data Cleaning
 To begin with, as we are making a hotel booking demand algorithm, it doesn't make sense to take into account entries in our dataset where the booking was canceled. These bookings will make our prediction algorithm less accurate, that is why we have decided to eliminate all the entries in which is_canceled is true:
 
-![correlation | 50%](images/actualEntries.png)
+![correlation, 50%](images/actualEntries.png)
 
 This makes a significant change in the amount of entries we now have for the rest of the columns. We went from 119389 to 75166. Now that we made this "strategical" decision, we can take a look at the rest of the data in our csv file. We will start by looking at the number of NaN values:
 
