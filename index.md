@@ -187,11 +187,11 @@ Random forest is a type of supervised machine learning algorithm based on ensemb
 
 Later we want to predict the total number of people that book hotel rooms. In the dataset the data is split into "adults", "children" and "babies". So, before we move on we need to add them together.
 
-<img src="images/sumOfPeople.png" alt="sumOfPeople" width="80%" />
+<img src="images/sumOfPeople.png" alt="sumOfPeople" width="60%" />
 
 Now we can visualize the number of people per hotel bookings throughout the months of the year in the following pretty graph.
 
-<img src="images/totalPeopleMonth.png" alt="totalPeopleMonth" width="80%" />
+<img src="images/totalPeopleMonth.png" alt="totalPeopleMonth" width="70%" />
 
 This is the average number of guests with each booking for each week during a full year. In general the bookings are quite stable all through the year, but we can see spikes around new year and during the summer. Our goal is to predict the amount of guests expected per booking in a specific week.
 
@@ -204,7 +204,7 @@ After cleaning the dataset, we wanted to find out which features have the strong
 <img src="images/correlation.PNG" alt="correlation" width="80%" />
 
 We make a specified correlation table for the feature 'total_people', to get a more accurate overview
-<img src="images/correlation 2.PNG" alt="correlation 2" width="70%" />
+<img src="images/correlation 2.PNG" alt="correlation 2" width="60%" />
 
 Now we need to prepare the data for Random Forest. We extract the columns with the highest correlation and create a matrix. We used adress, special requests, repeated guests, nights during week and previous bookings not cancelled. Adults, children and babies were ignored, since they are innately similar and actually a what makes up the total_people feature. 
 
