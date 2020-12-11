@@ -247,7 +247,3 @@ The running time of the random forest was around one minute on a 2016 MacBook wi
 - [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 - Jupyter
 - Keras
-
-
-## VI. Conclusion
-
