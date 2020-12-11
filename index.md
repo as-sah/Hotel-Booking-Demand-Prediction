@@ -244,6 +244,7 @@ Using our random forest regressor with 500 trees, we achieve an accuracy of 62%.
 - Python
 - [Kaggle Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 - Jupyter
+- Keras
 
 
 ## VI. Conclusion
