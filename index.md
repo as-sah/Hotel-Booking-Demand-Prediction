@@ -206,7 +206,7 @@ After cleaning the dataset, we wanted to find out which features have the strong
 We make a specified correlation table for the feature 'total_people', to get a more accurate overview
 <img src="images/correlation 2.PNG" alt="correlation 2" width="60%" />
 
-Now we need to prepare the data for Random Forest. We extract the columns with the highest correlation and create a matrix. We used adress, special requests, repeated guests, nights during week and previous bookings not cancelled. Adults, children and babies were ignored, since they are innately similar and actually is the features that makes up the total_people feature. 
+Now we need to prepare the data for Random Forest. We extract the columns with the highest correlation and create a matrix. We used adress, special requests, repeated guests, nights during week and previous bookings not cancelled. Adults, children and babies were ignored, since they are innately similar and actually is the features that makes up the total_people feature.
 
 <img src="images/rfMatrix.png" alt="rfMatrix" width="80%" />
 
@@ -230,7 +230,9 @@ Our estimation of prediction is off by 0.46 degrees
 
 <img src="images/predict2.PNG" alt="predict2" width="80%" />
 
-Using our random forest regressor with 500 trees, we achieve an accuracy of 62%. We earlier found out that changing the amount of estimators wouldn't be a big factor of improving the results. 
+Using our random forest regressor with 500 trees, we achieve an accuracy of 62%. We earlier found out that changing the amount of estimators wouldn't be a big factor of improving the results.
+
+The running time of the random forest was around one minute on a 2016 MacBook with a quad core Intel processor.
 
 <!-- ## Task 4 -->
 ## V. Related Work
