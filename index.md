@@ -199,7 +199,7 @@ This is the average number of guests with each booking for each week during a fu
 
 
 #### Random Forest
-After cleaning the dataset, we wanted to find out which features have the strongest correaltion to the total amount of people which is our target. This graph display graphically how much the different features correlate with each other. The lower the number, the stronger the correlation (displayed in blue). The higher the number, the weaker the correlation (displayed in red).
+After cleaning the dataset, we wanted to find out which features have the strongest correaltion to the total amount of people which is our target. This graph display graphically how much the different features correlate with each other. The lower the number, the stronger the correlation (displayed in blue). The higher the number, the weaker the correlation (displayed in red). We found someone on Github who already did this analysis [Link](https://github.com/dimadnan/ujian_modul_3)
 
 <img src="images/correlation.PNG" alt="correlation" width="80%" />
 
