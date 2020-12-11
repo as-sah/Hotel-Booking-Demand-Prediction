@@ -179,7 +179,6 @@ Random forest is a type of supervised machine learning algorithm based on ensemb
 #### Neural Network
 
 
-#### Feature and code explanations:
 
 ## IV. Evaluation & Analysis
 
