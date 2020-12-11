@@ -195,13 +195,13 @@ Now we can visualize the number of people per hotel bookings throughout the mont
 
 This is the average number of guests with each booking for each week during a full year. In general the bookings are quite stable all through the year, but we can see spikes around new year and during the summer. Our goal is to predict the amount of guests expected per booking in a specific week.
 
-<img src="images/totalPeoplePerWeek.png" alt="totalPeoplePerWeek" width="80%" />
+<img src="images/totalPeoplePerWeek.PNG" alt="totalPeoplePerWeek" width="80%" />
 
 
 #### Random Forest
 After cleaning the dataset, we wanted to find out which features have the strongest correaltion to the total amount of people which is our target. This graph display graphically how much the different features correlate with each other. The lower the number, the stronger the correlation (displayed in blue). The higher the number, the weaker the correlation (displayed in red).
 
-<img src="images/correlation.png" alt="correlation" width="80%" />
+<img src="images/correlation.PNG" alt="correlation" width="80%" />
 
 We make a specified correlation table for the feature 'total_people', to get a more accurate overview
 <img src="images/correlation 2.PNG" alt="correlation 2" width="70%" />
