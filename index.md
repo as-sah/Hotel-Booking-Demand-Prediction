@@ -206,7 +206,7 @@ After cleaning the dataset, we wanted to find out which features have the strong
 We make a specified correlation table for the feature 'total_people', to get a more accurate overview
 <img src="images/correlation 2.PNG" alt="correlation 2" width="60%" />
 
-Now we need to prepare the data for Random Forest. We extract the columns with the highest correlation and create a matrix. We used adress, special requests, repeated guests, nights during week and previous bookings not cancelled. Adults, children and babies were ignored, since they are innately similar and actually a what makes up the total_people feature. 
+Now we need to prepare the data for Random Forest. We extract the columns with the highest correlation and create a matrix. We used adress, special requests, repeated guests, nights during week and previous bookings not cancelled. Adults, children and babies were ignored, since they are innately similar and actually is the features that makes up the total_people feature. 
 
 <img src="images/rfMatrix.png" alt="rfMatrix" width="80%" />
 
