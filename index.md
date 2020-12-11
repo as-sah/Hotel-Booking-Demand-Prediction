@@ -204,7 +204,7 @@ After cleaning the dataset, we wanted to find out which features have the strong
 <img src="images/correlation.png" alt="correlation" width="80%" />
 
 We make a specified correlation table for the feature 'total_people', to get a more accurate overview
-<img src="images/correlation 2.PNG" alt="correlation 2" width="80%" />
+<img src="images/correlation 2.PNG" alt="correlation 2" width="70%" />
 
 Now we need to prepare the data for Random Forest. We extract the columns with the highest correlation and create a matrix. We used adress, special requests, repeated guests, nights during week and previous bookings not cancelled. Adults, children and babies were ignored, since they are innately similar and actually a what makes up the total_people feature. 
 
@@ -229,6 +229,7 @@ We have now trained our model to learn about the features, targets and their rel
 Our estimation of prediction is off by 0.46 degrees
 
 <img src="images/predict2.PNG" alt="predict2" width="80%" />
+
 Using our random forest regressor with 500 trees, we achieve an accuracy of 62%. We earlier found out that changing the amount of estimators wouldn't be a big factor of improving the results. 
 
 <!-- ## Task 4 -->
